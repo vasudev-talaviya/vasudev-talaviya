@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7C3AED&height=220&section=header&text=Vasudev%20Talaviya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7C3AED&height=220&section=header&text=Vasudev%20Talaviya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Data%20Science%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Building+Intelligent+Systems+with+Deep+Learning+%F0%9F%A7%A0;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Generative+AI+%E2%9C%A8)](https://git.io/typing-svg)
 
