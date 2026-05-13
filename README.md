@@ -98,46 +98,6 @@ class VasudevTalaviya:
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=vasudev-talaviya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-talaviya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="180"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasudev-talaviya&bg_color=0d1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Vasudev's%20Contribution%20Graph)](https://github.com/vasudev-talaviya)
-
-</div>
-
----
-
-<!-- Profile Summary Cards -->
-<div align="center">
-
-## ⚡ Detailed Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasudev-talaviya&theme=github_dark" alt="Profile Summary" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasudev-talaviya&theme=github_dark" alt="Repos Per Language" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vasudev-talaviya&theme=github_dark" alt="Most Commit Language" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasudev-talaviya&theme=github_dark" alt="Stats" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vasudev-talaviya&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="180"/>
-
-</div>
-
----
-
 <!-- What I'm Working On -->
 <div align="center">
 
