@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Building+Intelligent+Systems+with+Deep+Learning+%F0%9F%A7%A0;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Generative+AI+%E2%9C%A8)](https://git.io/typing-svg)
 
 <a href="https://github.com/vasudev-talaviya?tab=followers">
-  <img src="https://img.shields.io/github/followers/vasudev-talaviya?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/followers/vasudev-talaviya?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=0d1117&amp;labelColor=1a1b27" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=vasudev-talaviya&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/vasudev-talaviya?tab=repositories">
-  <img src="https://img.shields.io/github/repos/vasudev-talaviya?label=Repos&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1a1b27" />
+<img src="https://komarev.com/ghpvc/?username=vasudev-talaviya&amp;label=Profile+Views&amp;color=00D4FF&amp;style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/vasudev-talaviya?tab=stars">
+  <img src="https://img.shields.io/github/stars/vasudev-talaviya?label=Stars&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=7C3AED&amp;labelColor=1a1b27" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-talaviya&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6&size_weight=0.5&count_weight=0.5" width="280" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-talaviya&amp;layout=donut-vertical&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5" width="280" />
 
 ```python
 class VasudevTalaviya:
