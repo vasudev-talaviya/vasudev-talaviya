@@ -10,7 +10,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=vasudev-talaviya&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/vasudev-talaviya?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-7-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/repos/vasudev-talaviya?label=Repos&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1a1b27" />
 </a>
 
 </div>
@@ -93,80 +93,6 @@ class VasudevTalaviya:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🏆 Featured Projects
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🍎 [FitGen-Z](https://github.com/vasudev-talaviya/fitgenz)
-> **AI-Powered Nutritional Intelligence Platform**
-
-A state-of-the-art health analyzer that uses **Deep Learning** and **Large Language Models** to transform food photography into actionable health insights.
-
-**Key Features:**
-- 📸 Real-time food image classification
-- 🧠 Custom-trained CNN model + Groq LLM integration
-- 💊 Personalized health insights based on user profile
-- 🎨 Premium responsive UI with dynamic themes
-
-`Python` `PyTorch` `FastAPI` `Groq LLM` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Gen-Z Analysis](https://github.com/vasudev-talaviya/Gen-Z-analysis)
-> **Large-Scale Population Data Analytics**
-
-Comprehensive analysis of **1 Million+ records** exploring Gen-Z demographics, behaviors, and trends using advanced data science techniques.
-
-**Key Features:**
-- 📈 Exploratory data analysis on 1M+ dataset
-- 🔍 Statistical insights & pattern recognition
-- 📊 Rich visualizations with Matplotlib & Seaborn
-- 📋 Actionable findings & trend reports
-
-`Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Django Projects](https://github.com/vasudev-talaviya/Django)
-> **Full-Stack Web Development**
-
-Web applications built with the Django framework, showcasing backend development skills and MVC architecture patterns.
-
-`Python` `Django` `HTML/CSS` `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [Life Expectancy - WHO](https://github.com/vasudev-talaviya/Life-expectancy-who)
-> **Health Data Analytics & Prediction**
-
-Data analysis and predictive modeling on WHO Life Expectancy dataset, uncovering key factors influencing global life expectancy.
-
-`Python` `Jupyter` `Pandas` `Machine Learning`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories_→-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasudev-talaviya?tab=repositories)
 
 </div>
 
