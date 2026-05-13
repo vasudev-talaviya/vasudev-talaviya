@@ -21,12 +21,10 @@ const vasudev = {
     pronouns: "He" | "Him",
     role: "AI & Data Science Student",
     location: "Surat, Gujarat, India 🇮🇳",
-    education: "B.Tech in AI & Data Science",
+    education: "B.C.A in AI & Data Science",
     currentFocus: ["Deep Learning", "Computer Vision", "MLOps"],
     dreamGoal: "Build AI that makes a difference 🌟",
     lifePhilosophy: "Code, Learn, Innovate, Repeat 🔁",
-    currentlyReading: "Deep Learning Papers",
-    funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
@@ -59,7 +57,6 @@ const vasudev = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -88,13 +85,7 @@ const vasudev = {
 
 ---
 
-<div align="center">
 
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vasudev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?)](https://github.com/vasudev)
-
-</div>
 
 ---
 
@@ -102,7 +93,7 @@ const vasudev = {
 
 ## 📈 Contribution Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasudev&theme=github-compact&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/vasudev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasudev-talaviya&theme=github-compact&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/vasudev-talaviya)
 
 </div>
 
