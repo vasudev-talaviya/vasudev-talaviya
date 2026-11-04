@@ -52,6 +52,8 @@
 | 📚 | **[Personal-book-RAG](https://github.com/vasudev-talaviya/Personal-book-RAG)** `🆕 Latest` | Ask a question in plain language and get the exact page from my own books and notes. |
 | 🔍 | **[Smart-Detection](https://github.com/vasudev-talaviya/Smart-Detection)** | A trained computer vision model designed for object detection. |
 | 📊 | **[Gen-Z-analysis](https://github.com/vasudev-talaviya/Gen-Z-analysis)** | A study of 1,000,000+ records to understand the habits and choices of Gen Z. |
+| 📶 | **[Airtel-Case-Study](https://github.com/vasudev-talaviya/airtel-case-study)** `💼 Case Study` | Telecommunications analytics evaluating market trends, user growth, and business patterns. |
+| 🌱 | **[Green-Initiatives-of-Google](https://github.com/vasudev-talaviya/green-initiatives-of-google)** `🌱 Case Study` | Sustainability analytics analyzing Google's carbon neutrality, clean energy, and green operations. |
 | 🍎 | **[FitGenZ](https://github.com/vasudev-talaviya/fitgenz)** | A health platform that turns a photo of your meal into simple, useful health insights. |
 | 🌍 | **[Life-expectancy-who](https://github.com/vasudev-talaviya/Life-expectancy-who)** | A study of global health data to see what affects how long people live. |
 | 🎵 | **[my_music_enjoy](https://github.com/vasudev-talaviya/my_music_enjoy)** | A personal project built around music and audio exploration. |
@@ -123,6 +125,36 @@ A health platform that transforms food photos and dietary data into actionable w
 
 <a href="https://github.com/vasudev-talaviya/fitgenz">
   <img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📶 [Airtel-Case-Study](https://github.com/vasudev-talaviya/airtel-case-study)
+<kbd>Business Analytics</kbd> <kbd>Python</kbd> <kbd>Telecom</kbd> <kbd>EDA</kbd>
+
+Telecommunications case study examining telecom subscriber distributions, market penetration, and business metrics.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/airtel-case-study">
+  <img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [Green-Initiatives-of-Google](https://github.com/vasudev-talaviya/green-initiatives-of-google)
+<kbd>Sustainability</kbd> <kbd>Data Analytics</kbd> <kbd>Python</kbd> <kbd>Visualization</kbd>
+
+Data-backed case study investigating Google's global sustainability reports, carbon footprint metrics, and green energy investments.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/green-initiatives-of-google">
+  <img src="https://img.shields.io/badge/Explore_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
 </a>
 
 </td>
@@ -227,6 +259,8 @@ flowchart TB
 
     D --> D1[Life Expectancy<br/>WHO data]
     D --> D2[Gen-Z Analysis<br/>1M records]
+    D --> D3[Airtel Study<br/>telecom trends]
+    D --> D4[Google Green<br/>sustainability]
     M --> M1[Smart-Detection]
     M --> M2[FitGenZ<br/>meal photo insights]
     W --> W1[Django practice]
@@ -236,7 +270,7 @@ flowchart TB
     classDef root fill:#161b22,stroke:#7C3AED,stroke-width:2.5px,color:#ffffff;
     classDef branch fill:#161b22,stroke:#00D4FF,stroke-width:1.5px,color:#ffffff;
     class ME root;
-    class D,M,W,S,D1,D2,M1,M2,W1,W2,S1 branch;
+    class D,M,W,S,D1,D2,D3,D4,M1,M2,W1,W2,S1 branch;
 ```
 
 ---
