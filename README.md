@@ -1,156 +1,317 @@
+<div align="center">
+
 <!-- Header Banner -->
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00D4FF,100:7C3AED&height=240&section=header&text=Vasudev%20Talaviya&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=I%20turn%20data%20into%20things%20people%20can%20actually%20use&descSize=18&descAlignY=60&animation=twinkling)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7C3AED&height=220&section=header&text=Vasudev%20Talaviya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Data%20Science%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=140&lines=%F0%9F%93%8A+Turning+data+into+clear+insights;%F0%9F%93%9A+Building+smart+search+for+my+own+books;%F0%9F%A7%A0+Practical+Machine+Learning+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Building+Intelligent+Systems+with+Deep+Learning+%F0%9F%A7%A0;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Generative+AI+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/vasudev-talaviya?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00D4FF&labelColor=0d1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=vasudev-talaviya&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/vasudev-talaviya?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=00D4FF&labelColor=0d1117" alt="Stars" />
+</p>
 
-<a href="https://github.com/vasudev-talaviya?tab=followers">
-  <img src="https://img.shields.io/github/followers/vasudev-talaviya?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=0d1117&amp;labelColor=1a1b27" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=vasudev-talaviya&amp;label=Profile+Views&amp;color=00D4FF&amp;style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/vasudev-talaviya?tab=stars">
-  <img src="https://img.shields.io/github/stars/vasudev-talaviya?label=Stars&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=7C3AED&amp;labelColor=1a1b27" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/vasudev-talaviya">
+    <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vasudevtalaviya23@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vasudev-talaviya?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" />
+  </a>
+</p>
 
 </div>
 
-<!-- About Me -->
-<div align="center">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## 🖥️ whoami
 
-</div>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-talaviya&amp;layout=donut-vertical&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5" width="280" />
-
-```python
-class VasudevTalaviya:
-    def __init__(self):
-        self.name       = "Vasudev Talaviya"
-        self.role       = "AI & Data Science Student"
-        self.education  = "B.C.A in AI & Data Science"
-        self.location   = "Surat, Gujarat, India 🇮🇳"
-        self.languages  = ["English", "Hindi", "Gujarati"]
-
-    def tech_interests(self):
-        return {
-            "AI/ML":     ["Deep Learning", "Computer Vision", "NLP"],
-            "Data":      ["Analysis", "Visualization", "Feature Engineering"],
-            "Generative": ["LLMs", "Transformers", "RAG Pipelines"],
-            "Backend":   ["FastAPI", "Django", "REST APIs"],
-        }
-
-    def currently_working_on(self):
-        return "Building AI-powered health & analytics platforms 🚀"
+```json
+{
+  "developer": "Vasudev Talaviya",
+  "education": "B.C.A. in AI & Data Science",
+  "location": "Surat, Gujarat, India 🇮🇳",
+  "currently_building": "Personal-book-RAG (semantic search with exact citations)",
+  "core_focus": ["Data Analysis", "Applied ML", "Interactive Streamlit Dashboards"],
+  "philosophy": "Turning raw data and models into intuitive, living applications"
+}
 ```
 
-<br clear="right"/>
+---
+
+## 🗂️ My Projects
+
+| | Project | What it is |
+|:-:|---|---|
+| 📚 | **[Personal-book-RAG](https://github.com/vasudev-talaviya/Personal-book-RAG)** `🆕 Latest` | Ask a question in plain language and get the exact page from my own books and notes. |
+| 🔍 | **[Smart-Detection](https://github.com/vasudev-talaviya/Smart-Detection)** | A trained computer vision model designed for object detection. |
+| 📊 | **[Gen-Z-analysis](https://github.com/vasudev-talaviya/Gen-Z-analysis)** | A study of 1,000,000+ records to understand the habits and choices of Gen Z. |
+| 🍎 | **[FitGenZ](https://github.com/vasudev-talaviya/fitgenz)** | A health platform that turns a photo of your meal into simple, useful health insights. |
+| 🌍 | **[Life-expectancy-who](https://github.com/vasudev-talaviya/Life-expectancy-who)** | A study of global health data to see what affects how long people live. |
+| 🎵 | **[my_music_enjoy](https://github.com/vasudev-talaviya/my_music_enjoy)** | A personal project built around music and audio exploration. |
+| 🌐 | **[Django](https://github.com/vasudev-talaviya/Django)** | My practice space for learning backend architecture and web development. |
+| 🔢 | **[Number-System-](https://github.com/vasudev-talaviya/Number-System-)** | A foundational project on how number systems work and convert. |
+
+👉 **[See all 18 repositories on my profile →](https://github.com/vasudev-talaviya?tab=repositories)**
 
 ---
 
-<!-- Tech Stack -->
+## ✨ Featured Work
+
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML / DL
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![dlib](https://img.shields.io/badge/dlib-008000?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Data Science & Viz
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevTools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<!-- What I'm Working On -->
-<div align="center">
-
-## 🎯 Current Focus
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🔭 **Building** — AI-powered health & analytics applications  
-🌱 **Learning** — Large Language Models, Transformers & RAG  
-🧪 **Exploring** — MLOps, Model Deployment & Edge AI  
-🤝 **Open to** — Collaborations on AI/ML & Data Science projects  
-💬 **Ask me about** — Python, Deep Learning, Computer Vision, Data Analysis
+### 📚 [Personal-book-RAG](https://github.com/vasudev-talaviya/Personal-book-RAG)
+<kbd>Python</kbd> <kbd>ChromaDB</kbd> <kbd>Transformers</kbd> <kbd>BM25</kbd>
+
+Ask plain-language questions and retrieve exact passages with page-level citations from personal books and notes.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/Personal-book-RAG">
+  <img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Smart-Detection](https://github.com/vasudev-talaviya/Smart-Detection)
+<kbd>Python</kbd> <kbd>Computer Vision</kbd> <kbd>Machine Learning</kbd>
+
+A computer vision project focused on automated detection, image processing, and model classification.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/Smart-Detection">
+  <img src="https://img.shields.io/badge/Explore_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Gen-Z-analysis](https://github.com/vasudev-talaviya/Gen-Z-analysis)
+<kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>Streamlit</kbd>
+
+In-depth exploratory data analysis and interactive dashboard examining 1,000,000+ demographic records.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/Gen-Z-analysis">
+  <img src="https://img.shields.io/badge/Explore_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍎 [FitGenZ](https://github.com/vasudev-talaviya/fitgenz)
+<kbd>Python</kbd> <kbd>Data Analysis</kbd> <kbd>Health Tech</kbd>
+
+A health platform that transforms food photos and dietary data into actionable wellness insights.
+
+<br/>
+
+<a href="https://github.com/vasudev-talaviya/fitgenz">
+  <img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- Dev Quote -->
-<div align="center">
-
-## 💭 Dev Inspiration
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
 </div>
 
 ---
 
-<!-- Connect -->
-<div align="center">
+## 📚 Personal-book-RAG &nbsp;`🆕 Latest`
 
-## 🌐 Let's Connect
+> **Ask a question in plain language. Get the exact page from my own books.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-vasudev--talaviya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasudev-talaviya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudev-talaviya)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudevtalaviya@gmail.com)
+Instead of flipping through hundreds of pages, this project reads my PDF books and notes, understands them, and finds the passages that best answer a question, along with the book and page they came from.
+
+```mermaid
+flowchart LR
+    A[📄 Books & Notes] --> B[✂️ Clean & Split]
+    B --> C[🧠 Understand Meaning]
+    C --> D[(🗄️ Local Database)]
+    Q[❓ My Question] --> E[🔎 Meaning Search]
+    Q --> F[🔤 Keyword Search]
+    D --> E
+    D --> F
+    E --> G[⚖️ Combine Results]
+    F --> G
+    G --> H[🏆 Re-rank the Best]
+    H --> I[✅ Top Passages + Page]
+
+    classDef cyan fill:#161b22,stroke:#00D4FF,stroke-width:2px,color:#ffffff;
+    classDef purple fill:#161b22,stroke:#7C3AED,stroke-width:2px,color:#ffffff;
+    class A,B,C,D cyan;
+    class Q,E,F,G,H,I purple;
+```
+
+<details>
+<summary><b>💡 What makes it special</b></summary>
 
 <br/>
 
-> **💡 Open to exciting opportunities in AI/ML, Data Science & Computer Vision!**  
-> **If you find my work interesting, consider giving a ⭐ to my repos!**
+| | |
+|---|---|
+| 🧩 **Smart splitting** | Books are cut into meaningful pieces, not random chunks, and every piece remembers its book and page. |
+| 🤝 **Two kinds of search** | Meaning-based search catches ideas. Keyword search catches exact terms. Together they miss less. |
+| 🏆 **Re-ranking** | A second pass reads the question and each result together to put the best answer first. |
+| 🔬 **Honest evaluation** | I wrote a deep analysis of the first version's weak points, then a plan to fix them, and an evaluation script to measure the results. |
+
+**Tech Used:** `Python` • `PyMuPDF` • `ChromaDB` • `Sentence Transformers` • `BM25` • `Cross-Encoder`
+
+</details>
+
+👉 **[View on GitHub →](https://github.com/vasudev-talaviya/Personal-book-RAG)**
+
+---
+
+## 🔍 Smart-Detection
+
+> **Computer vision pipeline focused on automated object detection.**
+
+An end-to-end computer vision implementation designed to take image inputs, run model inference, and output bounding boxes with detection classifications.
+
+```mermaid
+flowchart LR
+    A[📷 Input Image] --> B[⚙️ Preprocessing & Resizing]
+    B --> C[🧠 Neural Model Inference]
+    C --> D[🎯 Bounding Boxes & Classes]
+
+    classDef cyan fill:#161b22,stroke:#00D4FF,stroke-width:2px,color:#ffffff;
+    classDef purple fill:#161b22,stroke:#7C3AED,stroke-width:2px,color:#ffffff;
+    class A,B cyan;
+    class C,D purple;
+```
+
+👉 **[View Source on GitHub →](https://github.com/vasudev-talaviya/Smart-Detection)**
+
+---
+
+## 📊 Gen-Z-analysis
+
+> **One million records. One question: what is Gen Z really like?**
+
+- Studied career choices, mental health patterns, and everyday habits across a dataset of **1,000,000+ people**.
+- Cleaned the data, found the patterns, and turned them into clear visuals.
+- Packaged everything into an **interactive dashboard** so anyone can explore the data themselves.
+
+**Tech Used:** `Python` • `Pandas` • `NumPy` • `Streamlit` • `Plotly` • `Seaborn`
+
+👉 **[View on GitHub →](https://github.com/vasudev-talaviya/Gen-Z-analysis)**
+
+---
+
+## 🗺️ What I've Explored
+
+```mermaid
+flowchart TB
+    ME((🧑‍💻 Vasudev))
+    ME --> D[📊 Data Analysis]
+    ME --> M[🤖 Machine Learning]
+    ME --> W[🌐 Web & Backend]
+    ME --> S[🔎 Smart Search]
+
+    D --> D1[Life Expectancy<br/>WHO data]
+    D --> D2[Gen-Z Analysis<br/>1M records]
+    M --> M1[Smart-Detection]
+    M --> M2[FitGenZ<br/>meal photo insights]
+    W --> W1[Django practice]
+    W --> W2[My Music Enjoy]
+    S --> S1[Personal-book-RAG]
+
+    classDef root fill:#161b22,stroke:#7C3AED,stroke-width:2.5px,color:#ffffff;
+    classDef branch fill:#161b22,stroke:#00D4FF,stroke-width:1.5px,color:#ffffff;
+    class ME root;
+    class D,M,W,S,D1,D2,M1,M2,W1,W2,S1 branch;
+```
+
+---
+
+## 🛠️ Toolbox
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+
+<br/>
+
+<div align="center">
+
+#### Programming & Databases
+![Python](https://img.shields.io/badge/Python-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-00D4FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+
+#### Data Analysis & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
+
+#### AI Search & Retrieval
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-6366F1?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d1117)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117)
+
+#### Visualization & Interactive Apps
+![Streamlit](https://img.shields.io/badge/Streamlit-00D4FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Seaborn](https://img.shields.io/badge/Seaborn-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Plotly](https://img.shields.io/badge/Plotly-00D4FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117)
+
+#### Everyday Tools
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-7C3AED?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117)
 
 </div>
 
-<!-- Footer -->
+</details>
+
+---
+
+## 🎧 Vibe Coding Station
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D4FF,100:0d1117&height=120&section=footer&animation=fadeIn)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Vibe Coding" />
+
+<br/><br/>
+
+> **Dev Reality:**  
+> **Q:** Why do programmers prefer dark mode and headphones?  
+> **A:** Because light attracts bugs, and noise ruins the vibe. 🎧✨
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vasudev-talaviya">
+    <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vasudevtalaviya23@gmail.com?subject=Hey%20Vasudev!">
+    <img src="https://img.shields.io/badge/Email_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vasudev-talaviya?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D4FF,100:0d1117&height=100&section=footer&animation=fadeIn)
 
 </div>
